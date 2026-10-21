@@ -1,0 +1,4 @@
+interface:
+  display_name: "写作上稿"
+  short_description: "公众号写稿全流程：查重、选题、成稿、排版、保存草稿"
+  default_prompt: "Use $xie-zuo to research a fresh WeChat article topic, draft it, typeset it, and save it as a draft without publishing."
